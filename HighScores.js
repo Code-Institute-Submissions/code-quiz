@@ -23,3 +23,8 @@ if (allScores !== null) {
 
     }
 }
+
+// Event listener to move to index page
+goBack.addEventListener("click", function () {
+    window.location.replace("./index.html");
+});
