@@ -6,3 +6,11 @@
     height: 500px;
     border: 1px solid purple;
 }
+
+#startTime {
+    background-color: purple;
+    margin-left: 33%;
+    padding: 15px 32px;
+    font-size: 20px;
+    color: white;
+}
