@@ -12,15 +12,15 @@ This project is a quiz application using HTML, CSS and Javascript. This applicat
     * This starts a timer for the user
     * Each question averages 15 seconds each for a total time of 75 seconds + 1. 
 
-![](assets/images/button.PNG)
+![](assets/images/InitialPage.png)
 
 * An appended HTML page that features questions, and multiple choice answers
     * If questions are answered incorrectly, 5 seconds are deducted off remaining time
     * Answers are recording using an event listener, "click" and tracks correct answers
 
-![](assets/images/question1.PNG)
+![](assets/images/question1.png)
 
-![](assets/images/question2.PNG)
+![](assets/images/question2.png)
 
 * An appended HTML page that features: 
     * Final score which is calculated using time remaining
@@ -29,14 +29,14 @@ This project is a quiz application using HTML, CSS and Javascript. This applicat
     * A Submit button
     * Submit buttom saves initials and score to local storage
 
-![](assets/images/final.PNG)
+![](assets/images/endquiz.png)
 
 * A Highscores HTML
     * This a list summary of intials and final scores
     * Clear button resets the page and local storage
     * Go back button travels to the start of the quiz
 
-![](assets/images/high.PNG)
+![](assets/images/highscores.png)
 
 ### Psuedo code:  
 * Create a timer attached to a button with a starting value of 0
