@@ -35,3 +35,14 @@
     text-align: center;
     text-decoration: none;
 }
+
+#clear {
+    background-color: purple;
+    position: relative;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+    top: 30%;
+    right: 5%;
+    text-align: center;
+}
