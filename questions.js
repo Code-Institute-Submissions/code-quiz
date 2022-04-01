@@ -52,7 +52,7 @@ var questions = [
     },
     {
         title: "The CSS property which is used to set the text wider or narrower compare to the default width of the font is:",
-        choices: ["font-stretch property", "font-weight property", "text-transform property", "font.variant property"],
+        choices: ["font-stretch property", "font-weight property", "text-transform property", "font-variant property"],
         answer: "font-stretch property"
     },
     {
@@ -88,8 +88,8 @@ var timer = document.querySelector("#startTime");
 var questionsDiv = document.querySelector("#questionsDiv");
 var wrapper = document.querySelector("#wrapper");
 
-// Seconds left is 15 seconds per question:
-var secondsLeft = 76;
+// Seconds left is 10 seconds per question:
+var secondsLeft = 156;
 // Holds interval time
 var holdInterval = 0;
 // Holds penalty time
