@@ -14,3 +14,11 @@
     font-size: 20px;
     color: white;
 }
+
+#questionsDiv {
+    margin: 20px;
+}
+
+#currentTime {
+    float: right;
+}
