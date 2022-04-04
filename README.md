@@ -97,6 +97,15 @@ This project is a quiz application using HTML, CSS and Javascript. This applicat
         * Functions 
         * Local Storage set and get 
 
+### Validation Testing
+
+![](assets/images/Validator-HTML-Index.png)
+![](assets/images/Validator-HighScores-Index.png)
+![](assets/images/Validator-CSS.png)
+![](assets/images/Validator-Questions-JS.png)
+![](assets/images/Validator-HighScores-JS.png)
+
+
 ## Authors
 
 * **Yari Carelli**
